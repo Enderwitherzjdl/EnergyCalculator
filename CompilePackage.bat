@@ -1,0 +1,1 @@
+pyinstaller.exe --onedir --windowed --icon=256.ico .\run.py
